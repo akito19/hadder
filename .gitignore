@@ -1,0 +1,6 @@
+.stack-work/
+hadder.cabal
+*~
+**/*.hi
+**/*.o
+dist/
